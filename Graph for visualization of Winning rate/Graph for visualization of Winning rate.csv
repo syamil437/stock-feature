@@ -1,0 +1,31 @@
+Sector,Winning_Rate,Year
+Construction,27.528,2020
+Construction,-30.168,2019
+Construction,9.8652,2016
+Construction,-32.0017,2018
+Construction,0.1006,2017
+Energy,36.617,2019
+Energy,-15.9559,2016
+Energy,-31.2155,2018
+Energy,-30.5836,2020
+Energy,20.0416,2017
+Healthcare,100.4283,2020
+Healthcare,15.1658,2019
+Healthcare,12.742,2016
+Healthcare,44.5969,2017
+Healthcare,-32.413,2018
+Technology,-26.8277,2018
+Technology,170.1138,2020
+Technology,18.462,2017
+Technology,13.8994,2016
+Technology,-14.0943,2019
+Telecommunications & Media,114.1105,2020
+Telecommunications & Media,0.4884,2016
+Telecommunications & Media,-26.4375,2018
+Telecommunications & Media,-1.0917,2019
+Telecommunications & Media,22.8049,2017
+Utilities,-10.6202,2018
+Utilities,9.3071,2017
+Utilities,39.8938,2020
+Utilities,-3.7452,2016
+Utilities,40.575,2019
